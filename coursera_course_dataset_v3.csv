@@ -1,0 +1,11 @@
+course_id,Title,course_description,institution,Skills
+C001,Introduction to Data Science,Learn the basics of data science and Python programming.,Coursera,Python; Data Analysis; Statistics
+C002,Machine Learning Foundations,A beginner-friendly course on supervised learning.,edX,Machine Learning; Regression; Algorithms
+C003,Healthcare Analytics,Use data analytics to improve healthcare services.,FutureLearn,Healthcare; Data Visualization; Dashboards
+C004,Cybersecurity Basics,Introduction to cybersecurity threats and prevention.,Udacity,Network Security; Risk Management; Cryptography
+C005,AI for Everyone,Understand AI concepts without coding.,Coursera,Artificial Intelligence; Strategy; Ethics
+C006,Web Development Bootcamp,"Build websites with HTML, CSS, and JavaScript.",Codecademy,HTML; CSS; JavaScript
+C007,Deep Learning Specialization,Master deep neural networks and backpropagation.,Coursera,Deep Learning; Neural Networks; TensorFlow
+C008,Cloud Computing Essentials,Learn the fundamentals of cloud infrastructure.,edX,Cloud; AWS; DevOps
+C009,Mobile App Development,Create Android and iOS apps using Flutter.,Udemy,Flutter; Dart; Mobile UI
+C010,Big Data with Hadoop,Explore big data tools and the Hadoop ecosystem.,Simplilearn,Hadoop; Big Data; Spark
